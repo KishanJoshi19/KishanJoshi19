@@ -24,6 +24,7 @@ Java | Python | Playwright
 API Testing & Backend Validation
 CI/CD-aware testing practices
 Continuous learning and improvement
+AI Testing
 
 <!---
 KishanJoshi19/KishanJoshi19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
